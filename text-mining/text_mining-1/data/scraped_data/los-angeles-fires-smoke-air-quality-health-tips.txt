@@ -1,0 +1,51 @@
+By 
+
+
+      Alejandra Borunda
+    
+
+
+                Some gas lines were still burning in Altadena, California, after the Eaton fire passed through a burned neighborhood. Crews were working to cut off gas to the area. Smoke and ash from the LA-area fires blanketed the region. Experts suggest care while cleaning up, even far from the immediate burn zones.
+                
+                    
+                    Ryan Kellman/NPR
+                    
+                
+hide caption
+
+Air quality in Los Angeles has improved as the Palisades and Eaton wildfires get under control. But as the fires burned through houses, cars and industrial areas, they spewed out vast amounts of smoke, ash and noxious gases that spread across the city.
+Indicators like the Air Quality Index (AQI), commonly used to track air pollution levels, provide a rough sense of the pollution floating in the skies. But those types of indicators don't capture some of the other potentially health-damaging materials in the air that get released during fires. And many Angelenos have been wondering how to assess the risks to their health.
+NPR spoke with health and wildfire smoke experts to answer some basic questions.
+The AQI incorporates measurements of five different air pollutants that the Environmental Protection Agency regulates: fine particles, ozone, carbon monoxide, sulfur dioxide, and nitrogen dioxide. Decades of health science have demonstrated that such pollutants damage the health of those who breathe them in regularly. The AQI was designed to represent health risks from common pollutants, such as car exhaust or smog.
+The EPA collects data for the AQI from some 4,000 air quality monitoring stations dotted around the country. But air quality can vary on a hyperlocal scale, meaning the network of official sites is "fairly sparse," says Michael Jerrett, an air pollution expert at the University of California, Los Angeles.
+"They don't have the spatial density or indeed sometimes the temporal density to tell us what's really happening on the kind of localized level that really matters to people," he says.
+The EPA created six color-coded categories from green (good, when the AQI is under 50) to maroon (hazardous, when the metric exceeds 301, as it often does near actively burning wildfires). Though Jerrett says, '"good" is a bit of a misnomer because even low levels of exposure to air pollution are associated with health problems.
+What doesn't AQI tell us?
+The Air Quality Index does not take into account many gas or particle contaminants that are produced during wildfires, particularly when houses, cars and other man-made materials go up in flames. Homes, for example, are jam-packed with synthetic materials—think of couches and mattresses—along with appliances, coolant fluids, metal wiring, asbestos tiling, lead paint, and many other materials that can generate dangerous pollutants.
+
+                Manmade materials produce smoke laden with toxic compounds when they burn.
+                
+                    
+                    Chris Pizzello/AP Photo
+                    
+                
+hide caption
+
+"They emit more toxic material per unit burnt than vegetation," says Colleen Reid, a health geographer who has studied wildfire smoke at the University of Colorado, Boulder.
+Researchers led experiments that simulated burning homes, and they measured carcinogens such as benzene or formaldehyde that developed in the smoke along with a long list of other harmful materials. They then exposed mice to the smoke. "It is more toxic to these animals who are breathing it in than urban air pollution or than wildfire smoke derived from biomass fuel alone," says Luke Montrose, a wildfire smoke expert and an environmental toxicologist at Colorado State University.
+Most of those potentially harmful gases and particles are not monitored in most of the U.S.
+Smoke conditions in the LA-region have improved as the fires get further contained and wind patterns redirect smoke away from the Los Angeles Basin. AQI readings have reported "good" conditions for many recent days.
+But the remnants of the smoke and ash that blanketed the city are still settling, and those present ongoing risks, Jerrett says.
+He recommends using the AQI as an indicator of how much pollution might be in the air. New smoke could appear quickly if wind patterns change, and the potentially toxic ash that spread across the city in the fires' early days can get fluffed back into the air by wind, too.
+Because the EPA sensors are spaced far apart, several experts suggest keeping track of more localized data, such as the PurpleAir network, which measures fine particles in the air. The data comes from small sensors people can buy and place near their homes; there are thousands across the Los Angeles region. The accuracy is lower than the regulatory monitors, but updates every two minutes, while the regulatory monitors report an average over many hours or a full day.
+Or, suggests Montrose, you can even buy personal air quality monitors, small enough to clip onto a backpack.
+"Knowledge is power," he says.
+Personal air monitors won't tell you what toxic contaminants are in the air. But the measurements can give you a general sense of the risk.
+Even when wildfire smoke comes primarily from trees or plants rather than manmade materials, it incurs heavy health outcomes. Recent analyses suggest it's a factor in some 16,000 uncounted deaths each year in the U.S. Smoke exposure is rarely marked down as the primary cause of death, but the extra stress on people's bodies can impact their existing health challenges so drastically, in some cases, that it leads to premature death.
+Wildfire smoke exposure has also been tied to higher risks of cardiovascular problems, mental health issues, skin troubles and the worsening of respiratory illnesses.
+Toxicologists have a common saying: The dose makes the poison. So the primary goal, says Lisa Patel, a pediatrics expert at Stanford University and part of the group Science Moms, is to lower your dose. "Trust your nose," Patel says. "So if you're smelling that pollution, go ahead and put that mask on."
+The ash from the fires' early days could get stirred up again by wind or moving air. So Patel says if concerned, parents could err on the side of caution and consider limiting kids' outdoor activity time.
+N95s, KN95s and air filters for your home can protect from solid fine pollution, including asbestos fibers. Gas components, like benzene, are harder to address, but Joost de Gouw, an atmospheric chemist at the University of Colorado, Boulder, suggests running air filters fitted with activated carbon.
+As for schools, Patel says many schools updated HVAC systems during the COVID-19 pandemic. But if they didn't, she recommends helping by getting a portable air filter for your child's classroom.
+Sponsor Message
+Become an NPR sponsor
