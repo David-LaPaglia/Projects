@@ -1,0 +1,130 @@
+Investigative Journalism in the Public Interest
+
+ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.
+More than three years ago, ProPublica spotlighted America’s “sacrifice zones,” where communities in the shadow of industrial facilities were being exposed to unacceptable amounts of toxic air pollution. Life in these places was an endless stream of burning eyes and suspicious smells, cancer diagnoses and unanswered pleas for help.
+The Biden administration took action in the years that followed, doling out fines, stepping up air monitoring and tightening emissions rules for one of the most extreme carcinogens. Last year, the Environmental Protection Agency requested a significant budget increase in part to issue scores of hazardous air pollution rules and fulfill its obligations under the Clean Air Act. Had the effort been successful, experts said, it could have made a meaningful difference.
+President Donald Trump threatens to dismantle the steps his predecessor took to curb pollution. In just over two weeks, the Trump administration has ordered a halt to proposed regulations, fired the EPA’s inspector general, frozen federal funding for community projects and launched a process that could force thousands of EPA employees from their jobs.
+So ProPublica set out to understand what modest reforms are now under threat and who will be left to safeguard these communities.
+The first Trump administration told EPA staff to defer more to state agencies on environmental enforcement. But ProPublica has documented a long history of state failures to hold polluters accountable — mostly in areas where support for Trump is strong.
+“States generally do not have the resources, experience, equipment, nor the political will to quickly and effectively respond” to serious pollution complaints, Scott Throwe, a former senior enforcement official at the EPA, said in an email.
+In Pascagoula, Mississippi, complaints from residents rolled in to the state’s environmental agency for years as a nearby oil refinery, a shipbuilding plant and other facilities regularly released carcinogens like benzene and nickel, according to emissions reports the facilities sent to the EPA.
+During Donald Trump’s second presidency, ProPublica will focus on the areas most in need of scrutiny. Here are some of the issues our reporters will be watching — and how to get in touch with them securely.
+Learn more about our reporting team. We will continue to share our areas of interest as the news develops.
+I have been reporting on Trump Media, the parent company of Truth Social. I’m also reporting on the Trump administration’s trade policies, including tariffs.
+I’m an engagement reporter interested in immigration, labor and the federal workforce.
+I cover health and the environment and the agencies that govern them, including the Environmental Protection Agency.
+I’m interested in Trump’s and his allies’ promises to dismantle the federal bureaucracy and laws that protect the environment.
+If you don’t have a specific tip or story in mind, we could still use your help. Sign up to be a member of our federal worker source network to stay in touch.
+We’re trying something new. Was it helpful?
+The futility of the complaints became apparent when the nonprofit Thriving Earth Exchange learned in early 2023 that the scientific instruments state contractors had used in the neighborhood to investigate recent complaints weren’t sensitive enough to detect some of the worst chemicals at levels that could pose health risks. The instruments were designed to protect industrial workers during eight-hour workdays, not children and medically vulnerable people who need greater protections at home.
+“I don’t live in this house eight hours! I live here 24/7,” said resident Barbara Weckesser, who has complained to the state about the toxic air for more than a decade.
+Jan Schaefer, communications director for the Mississippi Department of Environmental Quality, said the agency uses “scientifically sound methods and tools” to address complaints and that looking at just one episode omits “critical context and broader actions taken by the agency to address air quality concerns in Mississippi.”
+Before Trump’s inauguration, the EPA’s regional office said the state agency had applied for a grant to install air monitors, and data collection should begin this spring. The $625,000 long-term air monitoring effort could finally determine the source and scale of the pollution, but the data it produces isn’t “going to trigger something magical to happen,” said Barbara Morin, an air pollution analyst who advises the environmental agencies of eight northeastern states. Either the state or Trump’s EPA will need to analyze the data to see what’s causing the pollution and how to stop it, Morin said.
+Almost immediately after taking office, Trump ordered a freeze on all federal grants, including those at the EPA, sparking a legal battle. Nevertheless, Schaefer said the project’s schedule is on track.
+The EPA confirmed that similar activities in the tiny city of Verona, Missouri, where the agency had been cracking down on an industrial plant spewing a dangerous carcinogen, remain ongoing.
+While making an animal feed additive, the plant releases ethylene oxide, a colorless gas linked to leukemia and breast cancer.
+In response to a request from the city’s then-mayor, Joseph Heck, the state conducted a cancer survey of residents in 2022 and determined there wasn’t enough data for detailed analysis. That same year, the plant, operated by BCP Ingredients, leaked nearly 1,300 pounds of ethylene oxide, the EPA reported.
+The EPA intervened, setting up air monitoring in the town, fining the company $300,000 and ordering it to install equipment to remove 99.95% of the ethylene oxide coming out of a particular smokestack. (BCP Ingredients didn’t return a request for comment.) “The EPA has done a lot more than I think the state can ever do,” said Heck, whose partner died of cancer in 2022. Crystal Payne was in complete remission from breast cancer before they moved to Verona, Heck said, but within a year it came back and spread to her brain and her liver.
+A spokesperson with the Missouri Department of Natural Resources said the EPA used its authority under the federal Clean Air Act to compel the company to update its pollution-cutting equipment after the spill. He said the state lacks the power to do that.
+For years, a facility that sterilizes medical equipment in Laredo, Texas, released more ethylene oxide into the air than any other industrial plant in the country, according to emission reports the facility submitted to the EPA.
+Nearly 130,000 nearby residents, including more than 37,000 children, faced an elevated lifetime cancer risk, a ProPublica and Texas Tribune investigation found. The parents of two children diagnosed with acute lymphocytic leukemia, a cancer linked to ethylene oxide exposure, recounted their ordeal and said they had no idea about the risks.
+A statement from Midwest Sterilization Corporation, which operates the Laredo plant, said the company “meets or exceeds all federal and state law requirements” and performs the “important job” of sterilizing medical equipment, which “saves lives.”
+After the EPA released a report in 2016 on the dangers of ethylene oxide, Texas’ environmental agency conducted its own review of the federal study. The state concluded that people could safely inhale the chemical at concentrations thousands of times higher than the EPA’s safe limit.
+The state then passed a rule that meant that polluters didn’t need to lower their emissions.
+Richard Richter, a spokesperson for the Texas Commission on Environmental Quality, said the agency conducted an in-depth analysis that “led to the conclusion that there was inadequate evidence to support” a link between ethylene oxide and breast cancer.
+Scientists told ProPublica that the state agency reached that verdict only after wrongfully excluding studies that linked ethylene oxide to breast cancer and using a flawed analysis of the data EPA relied on.
+The state is the nation’s top ethylene oxide polluter and home to 26 facilities that emit ethylene oxide, according to ProPublica’s 2021 analysis of EPA data from 2014 through 2018.
+“Texas is extremely industry friendly,” said Tricia Cortez, executive director of the nonprofit Rio Grande International Study Center.
+Cortez said deferring more responsibility to the states “would be disastrous for normal everyday people. … Why should it matter how much you’re protected based on your state’s affiliation? People exposed to something so horrible and cancer-causing should have the same protection everywhere.”
+Representatives for Trump’s transition team didn’t return a request for comment.
+Hannah Perls, a senior staff attorney at Harvard’s Environmental & Energy Law Program, said giving states more control over how they implement and enforce federal laws enables “legal sacrifice zones,” reinforcing or creating disparities based on geography.
+One important reform that promises relief for the residents of Laredo is an updated rule adopted by the EPA last spring.
+Prompted by a lawsuit brought by Cortez’s group, the federal agency’s rule will eventually require facilities nationwide, including those in Texas, to conduct air monitoring for ethylene oxide and add equipment to reduce emissions of the chemical by 90%.
+Facilities have until 2026 to comply and can ask for extensions beyond that.
+But the attorney reportedly nominated to lead the Trump EPA’s air pollution efforts is a friend of the industry that depends on the chemical. Aaron Szabo recently represented the Advanced Medical Technology Association, an industry trade group that includes commercial sterilizers that use ethylene oxide. (His work for the group was first reported by Politico.) Last year, according to his lobbying report, Szabo lobbied the EPA on its “regulations related to the use of ethylene oxide from commercial sterilizer facilities.”
+Szabo didn’t return a request for comment.
+Trump and his key picks for important positions in his government have made it clear they intend to roll back environmental protections that burden industry.
+How far they go will have lasting consequences for residents in the more than 1,000 hot spots ProPublica’s 2021 analysis identified as having elevated and often unacceptable cancer risks from industrial air pollution.
+Another rule issued by the EPA last year offers a new way to tackle pollution in Calvert City, Kentucky.
+Last June, a local chemical plant operated by Westlake Vinyls leaked 153 pounds of ethylene dichloride, a dangerous carcinogen, according to EPA records.
+Read More
+It was the latest in a series of problems at the factory that state and federal fines had failed to stop. From 2020 to 2023, the EPA had found 46 instances when the facility didn’t correctly operate controls for the chemical. During one inspection, the concentration of dangerous gases coming from a tank was so high that it overwhelmed the EPA’s measuring instrument, according to agency records obtained by ProPublica. Westlake did not respond to requests for comment.
+The EPA’s updated rule will require more than 100 facilities, including Westlake and the refinery in Pascagoula, to install air monitors along the fence line, or perimeter. The monitors will measure up to six toxic gases, and the data will be posted online. (It’s unclear exactly which chemicals these two facilities would monitor, though the requirement could cover ethylene dichloride.)  
+Michael Koerber, a former EPA air quality expert, said the rule could finally give residents some much-needed transparency. Koerber said an earlier EPA rule, which required oil refineries to install fence line monitoring for benzene, led to a significant decrease in benzene from those facilities.
+But the new rule doesn’t fully take effect until next year. 
+That leaves its enforcement up to the Trump administration.
+Filed under —
+I report on the EPA and related agencies that oversee the environment, climate change and science.
+I’m interested in talking to people who work at the EPA, NOAA, USGS and similar agencies. Please reach out securely via Signal or email if you have a story idea.
+
+                            Uncertainty over funding and hiring stemming from the president’s executive orders has limited wildfire training and postponed work to reduce flammable vegetation. It has also led some firefighters to leave the force, their colleagues said.
+                    
+
+            by Mark Olalde,             Feb. 14, 2025, 5 a.m. EST
+
+
+                            Americans have long accumulated wealth by owning their homes, but a new study predicts that spiking insurance rates and climate disasters now herald an era of widespread losses.
+                    
+
+            by Abrahm Lustgarten,             Feb. 3, 2025, 5 a.m. EST
+
+
+                            The state was hostile to Interior Department policies during the Biden administration. A review of its lawsuits under Burgum reveals an aggressively pro-fossil fuel agenda.
+                    
+
+            by Mary Steurer, North Dakota Monitor, and Mark Olalde, ProPublica,             Jan. 24, 2025, 5 a.m. EST
+
+Local Reporting Network
+
+                            David Fotouhi, a lawyer who recently challenged a ban on asbestos, worked to roll back climate regulations and water protections while serving in the Environmental Protection Agency during Trump’s first administration.
+                    
+
+            by Sharon Lerner,             Jan. 22, 2025, 3:10 p.m. EST
+
+
+                            Donald Trump has said he will overturn a law that helps communities better weather the effects of climate change. If he follows through, he’ll be reversing an initiative that has disproportionately benefited areas that make up his base.
+                    
+
+            by Sharon Lerner, photography by Annie Flanagan for ProPublica,             Jan. 17, 2025, 5 a.m. EST
+
+
+                            As the community of Pacific Palisades, California, burns, ProPublica’s Tim Golden reflects on how the blaze will transform his hometown.
+                    
+
+            by Tim Golden,             Jan. 13, 2025, 5:30 p.m. EST
+
+
+                            Since Inauguration Day, the Office for Civil Rights has only opened about 20 investigations focused on Trump’s priorities, placing more than 10,000 student complaints related to disability access and sexual and racial harassment on hold.
+                    
+
+            by Jennifer Smith Richards and Jodi S. Cohen,             Feb. 13, 2025, 9:30 p.m. EST
+
+
+                            Uncertainty over funding and hiring stemming from the president’s executive orders has limited wildfire training and postponed work to reduce flammable vegetation. It has also led some firefighters to leave the force, their colleagues said.
+                    
+
+            by Mark Olalde,             Feb. 14, 2025, 5 a.m. EST
+
+
+                            Taxpayers and charities helped develop Zolgensma. Then it debuted at a record price, ushering in a new class of wildly expensive drugs. Its story upends the widely held conception that high prices reflect huge industry investments in innovation.
+                    
+
+            by Robin Fields,             Feb. 12, 2025, 8 a.m. EST
+
+
+                            Tennessee authorities were alerted to Solomon Henderson’s threatening and violent behavior long before he brought a gun to Antioch High School. It’s unclear how many red flags were heeded.
+                    
+
+            by Aliyya Swaby, ProPublica, and Paige Pfleger, WPLN/Nashville Public Radio,             Feb. 8, 2025, 5 a.m. EST
+
+
+                            The “King of Debt” promised to reduce the national debt — then his tax cuts made it surge. Add in the pandemic, and he oversaw the third-biggest deficit increase of any president.
+                    
+
+            by Allan Sloan, ProPublica, and Cezary Podkul for ProPublica,             Jan. 14, 2021, 5 a.m. EST
+
+
+© Copyright 2025 Pro Publica Inc.
+Creative Commons License (CC BY-NC-ND 3.0)
+Thank you for your interest in republishing this story. You are free to republish it so long as you do the following:
+undefined

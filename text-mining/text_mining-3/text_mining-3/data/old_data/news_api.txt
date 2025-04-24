@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "hello@apiverve.com",
+            "title": "apiverve-airquality 1.1.6",
+            "description": "Air Quality is a simple tool for getting air quality data. It returns the air quality index, o3, pm2, and more.",
+            "url": "https://pypi.org/project/apiverve-airquality/1.1.6/",
+            "urlToImage": null,
+            "publishedAt": "2025-01-19T01:51:16Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Daily Dot"
+            },
+            "author": "Alexandra Samuels",
+            "title": "\u2018This is not normal y\u2019all\u2019: Woman demands answers after seeing new HVAC filter, issues warning for those living where there\u2019s fog",
+            "description": "A woman is going viral on TikTok after sharing what her home\u2019s air filter looked like after only one month.\u00a0\n\n\nUser @theskyisfalling_222, who lives in Minnesota, said she\u00a0normally changes\u00a0her air filters once per month to avoid\u00a0a build-up of\u00a0dust and other de\u2026",
+            "url": "https://www.dailydot.com/news/hvac-filter-fog/",
+            "urlToImage": "https://uploads.dailydot.com/2025/01/foggy-city.jpg?auto=compress&fm=pjpg",
+            "publishedAt": "2025-01-06T03:00:00Z",
+            "content": "A woman is going viral on TikTok after sharing what her homes air filter looked like after only one month.\u00a0\r\nUser @theskyisfalling_222, who lives in Minnesota, said she\u00a0normally changes\u00a0her air filte\u2026 [+3948 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Tamantha Ryan",
+            "title": "Draya Michele labeled \u2018tone-deaf\u2019 for promoting $600 air purifier during LA fires",
+            "description": "The \"Basketball Wives\" alum took to Instagram Friday to share a video of herself assembling a Sereniby air purifier, which retails for $629.",
+            "url": "https://pagesix.com/2025/01/13/celebrity-news/draya-michele-tone-deaf-for-promoting-air-purifier-amid-la-fires/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/01/96637097.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-01-13T14:37:05Z",
+            "content": "Draya Michele was slammed for promoting a $600 air purifier on Instagram during the Los Angeles wildfires.\r\nThe \u201cBasketball Wives\u201d alum took to Instagram Friday to share a video of herself assembling\u2026 [+3573 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PerthNow"
+            },
+            "author": "Perthnow",
+            "title": "Draya Michele: Reality TV star slammed online for advertising $600 air purifier amid devastating LA wildfires",
+            "description": "The media personality and actress has been slammed online for promoting a $600 product amid the devastating Los Angeles wildfires.",
+            "url": "https://www.perthnow.com.au/entertainment/celebrity/draya-michele-reality-tv-star-slammed-online-for-advertising-600-air-purifier-amid-devastating-la-wildfires-c-17370667",
+            "urlToImage": "https://images.perthnow.com.au/publication/C-17370667/a04c33d2d4277725f3e412c4db42c8c097bd2be7-16x9-x1y0w2446h1376.jpg?imwidth=1200",
+            "publishedAt": "2025-01-13T03:16:37Z",
+            "content": "Reality TV star and actress Draya Michele has been labelled tone deaf for promoting an air purifier amid the devastating Los Angeles wildfires.\r\nThe 39-year-old used her Instagram account followed by\u2026 [+2167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Root"
+            },
+            "author": "Jared Alexander",
+            "title": "Social Media Drags Draya Michele For This 'Tone Deaf' Move Amid Los Angeles Wildfires",
+            "description": "As the Los Angeles wildfires continue to devastate the city, many celebrities are taking to social media to spread awareness and resources, as there is no sign of when this disaster will finally come to an end. \u201cBasketball Wives LA\u201d star Draya Michele, howeve\u2026",
+            "url": "https://www.theroot.com/social-media-drags-draya-michele-for-this-tone-deaf-mov-1851738131",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/824dea3e809add933f309510a50e12cd.jpg",
+            "publishedAt": "2025-01-13T16:06:00Z",
+            "content": "As the Los Angeles wildfires continue to devastate the city, many celebrities are taking to social media to spread awareness and resources, as there is no sign of when this disaster will finally come\u2026 [+2157 chars]"
+        }
+    ]
+}

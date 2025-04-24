@@ -1,0 +1,64 @@
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+The Shokz OpenFit 2 take the promising template of their predecessor and sprint to the finish with key improvements to comfort, audio, controls, and efficiency. I depended on the first-gen earbuds for my workouts, but the OpenFit 2 have become good enough to wear in other contexts, especially whenever you need to stay aware of your surroundings.
+Unimpeded, relaxed ears for situational awareness
+Fantastic, surprisingly loud audio hits highs & lows much better than before
+New button a vast improvement over touch controls
+Fixes 1st-gen problem with inconsistent charging
+Thinner hook easier to wear with glasses
+Reliable IP55 dust/water protection and 11-hour battery life
+No noise cancellation (by design) and some audio bleed
+No wear detection/ auto shut-off
+No Find My feature
+Why you can trust Android Central 
+
+
+Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.
+The Shokz OpenFit 2 wireless earbuds were designed specifically for me. I don't know how Shokz's engineers managed to pander to my lifestyle so perfectly; I suspect they hired spies, or my fiancee is a sleeper agent.
+
+In this weekly column, Android Central Wearables Editor Michael Hicks talks about the world of wearables, apps, and fitness tech related to running and health, in his quest to get faster and more fit.
+Ever since I reviewed the first-gen Shokz OpenFits in 2023, I've worn them for hundreds of runs, walks, and hikes, no exaggeration. My ear canals have had an unprecedented break from workout earbuds jammed into them, saving me from buds falling out during hard runs (which causes the sound to get worse), impacted ear wax, and the artificial hissing of transparency modes.
+But using them for over a year made me well aware of the OpenFit's many flaws, from an obnoxious charging issue to finicky touch controls and average sound quality. So, I'm thrilled that the Shokz OpenFit 2 immediately fixed or improved on almost all of my complaints.
+Shokz is best known for its bone conduction headphones, and I'm no audiophile to judge how the Shokz OpenRun Pro 2 sound quality compares to the OpenFit 2's air conduction. All I know is that I prefer the latter's "natural" sound while still giving me (mostly) unimpeded situational awareness during runs and races. And now, I'm much more likely to use the OpenFit 2's multipoint pairing and wear them in non-fitness contexts.
+
+My appreciation for the original OpenFit was how its ear hook placed the speaker directly over my ears without impeding them; I could safely hear approaching cyclists or "on your left" runners and even the sounds of nature if listening to quieter content like audiobooks. They've never once fallen off. I forget they're there aside from light pressure on the back and side of my ear, and the audio quality was good enough.
+The Shokz OpenFit 2 retains the same concept and target audience (athletes) but with minor tweaks that began with the Shokz OpenFit Air — which were more comfortable but too budget-focused to be "better" than the originals.
+The OpenFit 2 has a thinner outer hook that rounds into a softer, wider silicone edge than the original model. It's hard to describe the difference between the two, but the OpenFit 2 somehow sits more naturally in its over-ear position, while the original OpenFit feels as if it's pressing harder against my skin to stay in place. Plus, the thinner hook makes it take less ear-top space, sliding gracefully under my glasses temples without the same pressure as before.
+
+Basically, you got used to the Shokz OpenFit's fit for abbreviated workouts, but you'll enjoy wearing the OpenFit 2 for longer stretches.
+The Shokz OpenFit design has no ANC and minimal passive blocking, but that's the whole point. I wear these while reading or doing chores around the house because I never miss my partner or cat calling for attention.
+There's some noise pollution for bass-heavy songs if you put the volume loud enough — so it may not be the best fit for an office environment — but at the normal 25% volume I use indoors, people only hear something if they fully disregard my personal space and lean in.
+
+Equally important to comfort is sound, and the OpenFit 2 needed an upgrade. I noted that you "shouldn't necessarily expect a symphony for your ears" with the original OpenFits, defaulting to the Bass Boost option to offer reasonable low-end oomph and tolerating having to pump up the volume to the upper levels just to hear phone calls or podcasts clearly. At least for "normal" music, the sound sounded better than you'd expect, thanks to the "DirectPitch" tech.
+Shokz directly addressed these issues with the OpenFit 2, adding a larger low-frequency driver and an independent high-frequency unit for "DualBoost Technology."
+Ditching the marketing speak, I feel much more comfortable using the stock EQ setting because it hits highs and lows in a balanced, rich way; "luther" by Kendrick Lamar & SZA sounds rich and harmonious for both the deep and high portions, while Tommy Richman's "MILLION DOLLAR BABY" hits those falsetto notes and low beat with equal quality.
+For folks seeking that alternative (or emo) feel, Billie Eilish's "WILDFLOWER" or Bon Iver's "Holocene" no longer sound quite as tinny as they did on the first-gen earbuds; in fact, the OpenFit 2 hits hard enough that even 50% volume is too loud for me for these quiet songs (unless I'm outside and dealing with ambient noise).
+Now that I've started using these earbuds for my daily work grind, I do use the Treble Boost or Voice EQ settings for my instrumental & lo-fi soundtracks or my YouTube Let's Plays, but they generally sound quite lovely.
+Honestly, the only negative to this audio boost is that when the music is loud enough, it'll get in the way of hearing your surroundings a bit. But as long as you're not blowing up your eardrums, you'll be bopping to the beat, and you'll remain alert.
+Other key OpenFit 1-to-2 changes include a more energy-efficient Bluetooth chip, new physical buttons for touch controls, and one IP-level boost to water resistance.
+The jump from Bluetooth 5.2 to 5.4 lets the OpenFit 2 sit in a low-power mode for much longer in case you forget to put them in the charging case, as well as stay strongly connected in busy signal areas. The original OpenFit earbud had the same capacity, and yet the OpenFit 2 is rated to last 11 hours, a four-hour jump. In my experience, they did last easily across an entire workday of streaming, and ultramarathoners can depend on the OpenFit 2 more.
+By improving from IP54 to IP55 protection, Shokz made the OpenFit 2 capable of withstanding water jets; they're shower-proof and easier to safely clean under a strong sink, in other words. Your OpenFits are going to get gunked up with sweat over time, and the better resistance might make them last a bit longer before the speaker and mic quality are affected.
+My favorite upgrade is the new physical button, however. The first-gen OpenFit solely used touchpad controls, and I can't tell you how often they failed to recognize double-taps or made me accidentally hang up on people when I merely wanted to adjust their fit.
+By contrast, the new elevated buttons are easy to find and activate — but no longer something you'll press by mistake. They blend into the silver finish of the earbud, so they don't look tacky or old-fashioned. And most importantly, the touchpad only has one optional-on feature for Gemini or Siri, eliminating any confusion and frustration.
+The most important Shokz OpenFit 2 change isn't something Shokz put in its specs sheet. After my initial review period, I noticed that the OpenFit would stay connected to my phone inside the charging case, meaning they weren't charging. I can't tell you how often I'd find one earbud dead and the other fully charged the next day. I'd have to wipe down the magnetic pins and shift the buds around, then close the case and check the app to see if both had successfully disconnected.
+I asked Shokz about this issue since many OpenFit owners had similar complaints. They assured me that the OpenFit 2 had fewer contact points (2 vs. 3) and a much stronger magnet than the last-gen buds. You're still supposed to "keep the pins dry and clean during use to avoid any residue affecting proper contact," and it'll take months to see if a similar problem pops up; for now, though, I'm very optimistic, as I can feel how securely the OpenFit 2 snaps into place when inserted.
+I still have requests for the Shokz OpenFit 3, most notably wear detection — so they turn off and don't take calls when sitting outside the case — and a way to ping the charging case. If you buy the black OpenFit 2, choose a consistent place to put the case after workouts, or you will lose them constantly. Plus, the Shokz app should ideally notify you when the case hits 0%.
+But these complaints feel more nitpicky compared to the fundamental issues with the first-gen OpenFit. By and large, the Shokz OpenFit 2 sound fantastic, feel natural when worn with glasses, and let you keep your ear canals open instead of having hard plastic shoved into them for hours at a time.
+The Shokz OpenFit 2 won't match your wireless headphones or even normal wireless earbuds for surround-sound quality or ANC, so they may not be the right choice if you're looking for an all-day choice for every scenario that closely syncs with your smartphone. It's still a niche and fairly expensive product.
+That said, I fall within the target Shokz OpenFit 2 niche, and I'm supremely happy with them!
+
+
+Built for runners
+Fans of bone conduction headphones know and love Shokz, but the Shokz OpenFit 2 switches to air conduction while keeping the same driving principle: enjoy music without relying on transparency modes or having your ears crammed with bulky earbuds for hours on end. They're my new favorite wireless earbuds, both for running and for everyday life.
+Michael is Android Central's resident expert on wearables and fitness. Before joining Android Central, he freelanced for years at Techradar, Wareable, Windows Central, and Digital Trends. Channeling his love of running, he established himself as an expert on fitness watches, testing and reviewing models from Garmin, Fitbit, Samsung, Apple, COROS, Polar, Amazfit, Suunto, and more.
+We're entering the medical era of wearables
+How long is the Galaxy S25 battery life?
+News Weekly: OnePlus skips the Open 2, Android 16 Beta 2 arrives on Pixels, and more
+
+Android Central is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+
+©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036. 
